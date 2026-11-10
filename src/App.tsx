@@ -1,10 +1,10 @@
-import { useState } from 'react'
 import './App.css'
+import KerekparLista from './components/KerekparLista'
 
 function App() {
   return (
     <>
-     
+        <KerekparLista/>
     </>
   )
 }
